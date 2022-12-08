@@ -1,4 +1,4 @@
-# Mortar_V2
+# bldcMortar-hardware
 
 -Standalone BLDC motor driver, based on NRF52840 and DRV10983  
 -Supports two rotary encoders and four stop switches  
