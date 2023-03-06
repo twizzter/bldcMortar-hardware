@@ -1,6 +1,7 @@
 # bldcMortar-hardware
 
--Standalone BLDC motor driver, based on NRF52840 and DRV10983  
+-Standalone BLDC motor driver, based on NRF52840 and DRV10983.    
+-For firmware and tools, take a look at Kwahoo's Github repo: https://github.com/kwahoo2/bldcMortar-drive    
 -Supports two rotary encoders and four stop switches  
 -Integrated GPS module  
 
